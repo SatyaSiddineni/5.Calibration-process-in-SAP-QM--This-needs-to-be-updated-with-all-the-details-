@@ -5,6 +5,12 @@ Calibration Process in SAP QM (Inspection Type 14)
             This project explains the Calibration Process in SAP Quality Management using Inspection Type 14, covering equipment master creation, calibration planning, scheduling, execution, measurement recording, usage decision, and certificate
             handling.
 
+            This repository is ideal for:
+
+                        SAP QM Functional Consultants
+                        Showcasing SAP calibration expertise
+                        Demonstrating end-to-end inspection processing
+
 3. Business Scenario
 
       A manufacturing organization uses multiple instruments (gauges, calipers, micrometers, pressure meters, weighing scales). These instruments must be periodically calibrated to ensure accuracy.
