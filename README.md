@@ -64,6 +64,6 @@ Calibration Process in SAP QM (Inspection Type 14)
                 ├── Calibration process flowchart.png
                 └── Calibration Process Documentation.pdf
 
-👤 Author
+🙌 Author
 
 Satyanarayana Siddineni SAP Functional Consultant
