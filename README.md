@@ -56,12 +56,13 @@ Calibration Process in SAP QM (Inspection Type 14)
             Calibration Process in SAP QM/
             │   
             │── README.md
-            │── Sample test data/
-            │     └── Inspection type 14 calibration sample test data.xlsx
+            ├── Docs/
+            │     ├── Calibration process flowchart.png
+            │     └── Calibration Process Documentation.pdf
             │
-            └── Docs/
-                  ├── Calibration process flowchart.png
-                  └── Calibration Process Documentation.pdf
+            └── Sample test data/
+                 └── Inspection type 14 calibration sample test data.xlsx
+   
 
 🙌 Author
 
