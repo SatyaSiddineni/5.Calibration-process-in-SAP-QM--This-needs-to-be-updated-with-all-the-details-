@@ -23,7 +23,7 @@ Calibration Process in SAP QM (Inspection Type 14)
             Accept/Reject instrument accuracy
             Maintain legal compliance
 
-4. Calibration Process Flow
+4. Process Flow
 
           Create Equipment (IE01)
                ↓
